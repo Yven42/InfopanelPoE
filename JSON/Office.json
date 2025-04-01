@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "msg_type": 3,
+  "sleep_time": "0:00:00",
+  "data": {
+    "type": 1,
+    "template": {
+      "l1": "A101",
+      "l2": "Prof. Dr. Elke Mackensen",
+      "l3": "- Dekanin",
+      "l4": "- Schaltungstechnik",
+      "l5": "- Mikroelektronik",
+      "l6": "Aktuelle Information",
+      "l7": "- In einer Besprechung",
+      "g_id": 3
+    }
+  }
+}

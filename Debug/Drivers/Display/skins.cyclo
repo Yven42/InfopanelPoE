@@ -1,0 +1,5 @@
+../Drivers/Display/skins.c:14:6:UmlautCheck	27
+../Drivers/Display/skins.c:105:6:vPrint_Skin_Office	5
+../Drivers/Display/skins.c:193:6:vPrint_Pixmap	1
+../Drivers/Display/skins.c:209:6:vPrint_Skin_Lecture_Room	1
+../Drivers/Display/skins.c:272:6:vStringNr	4

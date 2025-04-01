@@ -1,0 +1,12 @@
+../Drivers/Display/EPD_7in5_V2.c:92:13:EPD_Reset	8	static
+../Drivers/Display/EPD_7in5_V2.c:107:13:EPD_SendCommand	16	static
+../Drivers/Display/EPD_7in5_V2.c:120:13:EPD_SendData	16	static
+../Drivers/Display/EPD_7in5_V2.c:132:13:EPD_WaitUntilIdle	16	static
+../Drivers/Display/EPD_7in5_V2.c:144:13:EPD_7IN5_V2_LUT	32	static
+../Drivers/Display/EPD_7in5_V2.c:173:13:EPD_7IN5_V2_TurnOnDisplay	8	static
+../Drivers/Display/EPD_7in5_V2.c:184:7:EPD_7IN5_V2_Init	16	static
+../Drivers/Display/EPD_7in5_V2.c:274:6:EPD_7IN5_V2_Clear	16	static
+../Drivers/Display/EPD_7in5_V2.c:292:6:EPD_7IN5_V2_ClearBlack	16	static
+../Drivers/Display/EPD_7in5_V2.c:310:6:EPD_7IN5_V2_Display	32	static
+../Drivers/Display/EPD_7in5_V2.c:326:6:EPD_7IN5_V2_WritePicture	32	static
+../Drivers/Display/EPD_7in5_V2.c:350:6:EPD_7IN5_V2_Sleep	8	static

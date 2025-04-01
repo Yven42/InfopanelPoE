@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "msg_type": 3,
+  "sleep_time": "0:01:00",
+  "data": {
+    "type": 0
+  }
+}

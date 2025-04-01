@@ -1,0 +1,5 @@
+../Drivers/Display/skins.c:14:6:UmlautCheck	80	static
+../Drivers/Display/skins.c:105:6:vPrint_Skin_Office	32	static
+../Drivers/Display/skins.c:193:6:vPrint_Pixmap	32	static
+../Drivers/Display/skins.c:209:6:vPrint_Skin_Lecture_Room	32	static
+../Drivers/Display/skins.c:272:6:vStringNr	32	static
